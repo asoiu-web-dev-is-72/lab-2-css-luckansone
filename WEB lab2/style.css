@@ -1,0 +1,73 @@
+button 
+{
+    background: #1c5957;
+	color: #fefff0;
+    padding: 5px;
+    border-radius: 12px;
+	text-align: center;
+	text-transform: uppercase;
+	box-shadow: 0 -3px rgb(255, 246, 0) inset;
+}
+button:hover
+{
+	background: rgb(53, 167, 110);
+}
+button:active
+{
+	background: rgb(33,147,90);;
+}
+a 
+{ 
+    text-decoration: none;
+	color: #ecf0b0;
+} 
+ 
+p{
+	font-size: 20px;
+	font-style: cursive;
+}
+
+.header
+{
+	width: 1573px;
+	height: 160px;
+	border: 0;
+}
+
+.sidebar
+{
+	width:320px;
+	height: 595px;
+	border: 0;
+	float: left;
+}
+
+.content
+{
+	overflow: visible;
+	width: 1253px;
+	height: 595px;
+	border: 0;
+	margin-left: 320px;
+	padding: 5px;
+}
+
+span
+{
+	color: #1c5957;
+	font-size: 40px;
+	text-shadow: 0 0 15px yellow;
+}
+
+table {
+    display: table;
+    border-spacing: 2px;
+    border-color: #fff600;
+}
+
+
+.dictator
+{
+	border-radius:12px;
+}
+
